@@ -1,3 +1,12 @@
-# projet.origamid
-Projeto final da Origamid feito a partir dos conteúdos e dos módulos de Web Design Completo.
-Feito por mim apenas a parte do HTML5,CSS3 e javaScript. Do PHP em diante ofertado pronto pela Origamid.
+># Bikcraft
+### 💻 Sobre o Projeto
+Projeto final da Origamid feito a partir dos conteúdos e dos módulos de Web Design Completo. Site de vendedor de bicicletas onde eu utilizor diversos dos conceitos que eu aprendi de Html, Css e JavaScript.
+### 🛠 Tecnologias 
+As seguintes ferramentas estão sendo usadas na construção do projeto:
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* Vscode
+
